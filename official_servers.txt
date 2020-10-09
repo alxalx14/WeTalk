@@ -1,1 +1,1 @@
-wss://chat.alx.ru.com | Official Server
+wss://chat.alx.ru.com
