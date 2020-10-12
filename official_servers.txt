@@ -1,2 +1,2 @@
-wss://chat.alx.ru.com
 ws://127.0.0.1:8000
+wss://chat.alx.ru.com
