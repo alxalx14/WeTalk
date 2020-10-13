@@ -3,7 +3,7 @@ Anonymous live chatting app.
 
 ## Benchmarks
 Specs:
-- Scaleways Developer 1 VPS
+- Scaleways DEV-1S VPS
 - AMD EPYC 7281 16-Core Processor (VPS version offers 2 vCores ) 2.09 GHz
 - 2 GB of RAM
 
